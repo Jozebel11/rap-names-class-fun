@@ -13,10 +13,10 @@ const rappers = {
         'birthName':'Chancelor Bennett',
         'birthLocation': 'Chicago, Illinois'
     },
-    'dylan':{
-        'age': 29,
-    'birthName':'Dylan',
-    'birthLocation': 'London, England'
+    'unknown':{
+        'age': 0,
+    'birthName':'unknown',
+    'birthLocation': 'unknown'
     }
 }
 
